@@ -1,0 +1,37 @@
+import os
+import requests
+
+def load_env(path):
+    env = {}
+    with open(path) as f:
+        for line in f:
+            line = line.strip()
+            if not line or "=" not in line:
+                continue
+            k, v = line.split("=", 1)
+            env[k] = v
+    return env
+
+SCRIPT_DIR = os.path.dirname(__file__)
+env = load_env(os.path.join(SCRIPT_DIR, ".env"))
+
+resp = requests.post(
+    "https://api.umbrella.com/auth/v2/token",
+    auth=(env["UMBRELLA_API_KEY"], env["UMBRELLA_API_SECRET"]),
+    data={"grant_type": "client_credentials"},
+)
+token = resp.json()["access_token"]
+headers = {"Authorization": f"Bearer {token}"}
+
+urls = [
+    "https://api.umbrella.com/deployments/v2/sites?limit=100",
+    "https://api.umbrella.com/deployments/v2/networks?limit=100",
+    "https://api.umbrella.com/reports/v2/top-identities?from=-30days&to=now&limit=100&offset=0",
+]
+for url in urls:
+    r = requests.get(url, headers=headers)
+    print("\nGET", url)
+    print("STATUS", r.status_code)
+    body = r.text
+    print("LEN", len(body))
+    print(body[:1200])

@@ -1,0 +1,1322 @@
+[
+  {
+    "name": "Mkhuhlu_Library",
+    "originId": 624962653,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.36",
+    "status": "CLOSED",
+    "createdAt": "2024-04-03T13:07:23.000Z"
+  },
+  {
+    "name": "105.242.142.64",
+    "originId": 625041729,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.142.64",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T08:34:49.000Z"
+  },
+  {
+    "name": "Emakhazeni Library",
+    "originId": 625048467,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.215",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T09:22:08.000Z"
+  },
+  {
+    "name": "Khululwazi_Library",
+    "originId": 625049360,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.142.45",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T09:33:44.000Z"
+  },
+  {
+    "name": "Siyathuthuka Library",
+    "originId": 625051178,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.142.35",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T10:17:38.000Z"
+  },
+  {
+    "name": "Entokozweni Library",
+    "originId": 625052064,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.253",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T10:40:24.000Z"
+  },
+  {
+    "name": "Breyten Library",
+    "originId": 625052476,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.142.60",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T10:53:28.000Z"
+  },
+  {
+    "name": "Ezenzeleni Library",
+    "originId": 625052738,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.142.12",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T11:00:30.000Z"
+  },
+  {
+    "name": "Emthonjeni _Library",
+    "originId": 625053233,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.142.55",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T11:11:50.000Z"
+  },
+  {
+    "name": "Masobye Library",
+    "originId": 625053932,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.246",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T11:26:49.000Z"
+  },
+  {
+    "name": "Komati Library",
+    "originId": 625058578,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.142.43",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T12:54:39.000Z"
+  },
+  {
+    "name": "Morgenzon Library",
+    "originId": 625063186,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.243",
+    "status": "CLOSED",
+    "createdAt": "2024-04-04T14:05:29.000Z"
+  },
+  {
+    "name": "Kwazanele Library",
+    "originId": 625139778,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.71",
+    "status": "CLOSED",
+    "createdAt": "2024-04-05T08:50:16.000Z"
+  },
+  {
+    "name": "Ermelo Regional Library",
+    "originId": 625149563,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.140.252",
+    "status": "CLOSED",
+    "createdAt": "2024-04-05T11:46:41.000Z"
+  },
+  {
+    "name": "Archives_Repository",
+    "originId": 626426866,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.241.162",
+    "status": "CLOSED",
+    "createdAt": "2024-04-25T08:26:20.000Z"
+  },
+  {
+    "name": "Emftuntini Library",
+    "originId": 628175900,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.162.8",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:24:22.000Z"
+  },
+  {
+    "name": "badplaas.xwi.co.za",
+    "originId": 628177546,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.161.83",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:35:59.000Z"
+  },
+  {
+    "name": "emjindini.xwi.co.za",
+    "originId": 628178533,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.161.86",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:42:47.000Z"
+  },
+  {
+    "name": "hazyview.xwi.co.za",
+    "originId": 628178603,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.161.90",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:43:18.000Z"
+  },
+  {
+    "name": "Hopestreet Library",
+    "originId": 628178680,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.161.92",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:43:46.000Z"
+  },
+  {
+    "name": "lyd.region.xwi.co.za",
+    "originId": 628178860,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.163.81",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:45:01.000Z"
+  },
+  {
+    "name": "lydenburg.xwi.co.za",
+    "originId": 628178947,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.161.98",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:45:38.000Z"
+  },
+  {
+    "name": "malelane.xwi.co.za",
+    "originId": 628179006,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.162.10",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:46:02.000Z"
+  },
+  {
+    "name": "kanyamazane.library.xwi.co.za",
+    "originId": 628179222,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.163.78",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:47:36.000Z"
+  },
+  {
+    "name": "msogwaba.library.xwi.co.za",
+    "originId": 628179353,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.163.76",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:48:31.000Z"
+  },
+  {
+    "name": "Zwelisha Library",
+    "originId": 628179536,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.163.84",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T08:49:57.000Z"
+  },
+  {
+    "name": "Ga Nala Library",
+    "originId": 628206040,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.140.200",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T14:59:29.000Z"
+  },
+  {
+    "name": "Pullenshope",
+    "originId": 628206486,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.161",
+    "status": "CLOSED",
+    "createdAt": "2024-05-21T15:04:37.000Z"
+  },
+  {
+    "name": "Ekulindeni Library",
+    "originId": 628327226,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.34",
+    "status": "CLOSED",
+    "createdAt": "2024-05-23T06:24:12.000Z"
+  },
+  {
+    "name": "Nthoroane Library",
+    "originId": 628327370,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.48",
+    "status": "CLOSED",
+    "createdAt": "2024-05-23T06:25:10.000Z"
+  },
+  {
+    "name": "Nazareth Library",
+    "originId": 628327647,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.103",
+    "status": "CLOSED",
+    "createdAt": "2024-05-23T06:27:18.000Z"
+  },
+  {
+    "name": "Samora Machel Monument and Museum",
+    "originId": 628335084,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.72",
+    "status": "CLOSED",
+    "createdAt": "2024-05-23T07:21:57.000Z"
+  },
+  {
+    "name": "Klarinet Library",
+    "originId": 628432588,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.140.218",
+    "status": "CLOSED",
+    "createdAt": "2024-05-24T06:55:41.000Z"
+  },
+  {
+    "name": "Masoyi_Library",
+    "originId": 628571655,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.253.17.12",
+    "status": "CLOSED",
+    "createdAt": "2024-05-27T10:09:20.000Z"
+  },
+  {
+    "name": "Chromville Library",
+    "originId": 628572533,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.140.193",
+    "status": "CLOSED",
+    "createdAt": "2024-05-27T10:31:53.000Z"
+  },
+  {
+    "name": "Botleng Library",
+    "originId": 628572653,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.140.232",
+    "status": "CLOSED",
+    "createdAt": "2024-05-27T10:35:40.000Z"
+  },
+  {
+    "name": "Nomoya Masilela Museum",
+    "originId": 628572831,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.26",
+    "status": "CLOSED",
+    "createdAt": "2024-05-27T10:41:25.000Z"
+  },
+  {
+    "name": "Silindile Library",
+    "originId": 630647801,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.142.74",
+    "status": "CLOSED",
+    "createdAt": "2024-06-26T07:59:47.000Z"
+  },
+  {
+    "name": "Amersfoort Library",
+    "originId": 631458349,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.33",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:35:12.000Z"
+  },
+  {
+    "name": "Amsterdam Library",
+    "originId": 631458400,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.214.193",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:36:02.000Z"
+  },
+  {
+    "name": "Balfour Library",
+    "originId": 631458447,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.34",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:36:44.000Z"
+  },
+  {
+    "name": "Bethal Library",
+    "originId": 631458644,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.32",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:39:24.000Z"
+  },
+  {
+    "name": "Carolina Library",
+    "originId": 631458714,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.147",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:40:22.000Z"
+  },
+  {
+    "name": "Driefontein Library",
+    "originId": 631458908,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.36",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:42:58.000Z"
+  },
+  {
+    "name": "Eastdene Library",
+    "originId": 631458986,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.37",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:43:56.000Z"
+  },
+  {
+    "name": "Gerald Sekoto Library",
+    "originId": 631459036,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.128",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:44:42.000Z"
+  },
+  {
+    "name": "Hendrina Library",
+    "originId": 631459089,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.38",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:45:23.000Z"
+  },
+  {
+    "name": "Klipfontein Library",
+    "originId": 631459288,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.143",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:48:01.000Z"
+  },
+  {
+    "name": "Kwaguqa Library",
+    "originId": 631459342,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.137",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:48:41.000Z"
+  },
+  {
+    "name": "Ogies Library",
+    "originId": 631459767,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.74",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:54:40.000Z"
+  },
+  {
+    "name": "Perdekop Library",
+    "originId": 631459832,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.214.199",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:55:15.000Z"
+  },
+  {
+    "name": "Phola Library",
+    "originId": 631459931,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.142",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:56:11.000Z"
+  },
+  {
+    "name": "Phumula Library",
+    "originId": 631460070,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.149",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:57:45.000Z"
+  },
+  {
+    "name": "Piet Retief Library (Mkhondo)",
+    "originId": 631460137,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.31",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T14:58:38.000Z"
+  },
+  {
+    "name": "Standerton Regional Library",
+    "originId": 631460310,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.78",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T15:00:37.000Z"
+  },
+  {
+    "name": "Standerton Library",
+    "originId": 631460347,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.77",
+    "status": "CLOSED",
+    "createdAt": "2024-07-09T15:01:02.000Z"
+  },
+  {
+    "name": "Thembisile Hani Library",
+    "originId": 631531680,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.79",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T07:29:31.000Z"
+  },
+  {
+    "name": "Verena Library",
+    "originId": 631531866,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.148",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T07:30:42.000Z"
+  },
+  {
+    "name": "Volksrust Library",
+    "originId": 631531948,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.30",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T07:31:18.000Z"
+  },
+  {
+    "name": "Vukuzake Library",
+    "originId": 631532057,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.120",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T07:32:02.000Z"
+  },
+  {
+    "name": "Wakkerstroom Library",
+    "originId": 631532141,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.123",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T07:32:42.000Z"
+  },
+  {
+    "name": "MP Stream Library",
+    "originId": 631540020,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.163.79",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T08:28:45.000Z"
+  },
+  {
+    "name": "Sabie Library",
+    "originId": 631540163,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.161.102",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T08:29:40.000Z"
+  },
+  {
+    "name": "Shatale Library",
+    "originId": 631540234,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.163.83",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T08:30:09.000Z"
+  },
+  {
+    "name": "White River Library",
+    "originId": 631545953,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.3",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T09:08:52.000Z"
+  },
+  {
+    "name": "Kamaqhekeza Library",
+    "originId": 631545977,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.222.90.159",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T09:09:03.000Z"
+  },
+  {
+    "name": "Rietkuil Library",
+    "originId": 631546422,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.141",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T09:11:57.000Z"
+  },
+  {
+    "name": "Thistle Grove Library",
+    "originId": 631556722,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.219.163.92",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T11:14:24.000Z"
+  },
+  {
+    "name": "Leandra Library",
+    "originId": 631559481,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.254.68.28",
+    "status": "CLOSED",
+    "createdAt": "2024-07-10T12:08:26.000Z"
+  },
+  {
+    "name": "Thulamahashe Library",
+    "originId": 631650920,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "196.31.30.172",
+    "status": "CLOSED",
+    "createdAt": "2024-07-11T09:04:53.000Z"
+  },
+  {
+    "name": "Daggaskraal Library",
+    "originId": 631653832,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.35",
+    "status": "CLOSED",
+    "createdAt": "2024-07-11T09:25:08.000Z"
+  },
+  {
+    "name": "Mhluzi Ext 7 Library",
+    "originId": 631654787,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.39",
+    "status": "CLOSED",
+    "createdAt": "2024-07-11T09:31:26.000Z"
+  },
+  {
+    "name": "Mhluzi Main Library",
+    "originId": 631654835,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.73",
+    "status": "CLOSED",
+    "createdAt": "2024-07-11T09:31:42.000Z"
+  },
+  {
+    "name": "Stan West Library",
+    "originId": 631732140,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.76",
+    "status": "CLOSED",
+    "createdAt": "2024-07-12T08:41:54.000Z"
+  },
+  {
+    "name": "Mbuzini Library",
+    "originId": 631732574,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.222.90.158",
+    "status": "CLOSED",
+    "createdAt": "2024-07-12T08:45:15.000Z"
+  },
+  {
+    "name": "Mgobodzi Library",
+    "originId": 631732825,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.222.90.181",
+    "status": "CLOSED",
+    "createdAt": "2024-07-12T08:47:27.000Z"
+  },
+  {
+    "name": "Sakhile Library",
+    "originId": 631733157,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.75",
+    "status": "CLOSED",
+    "createdAt": "2024-07-12T08:50:03.000Z"
+  },
+  {
+    "name": "Secunda Library",
+    "originId": 631734807,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.138",
+    "status": "CLOSED",
+    "createdAt": "2024-07-12T09:02:31.000Z"
+  },
+  {
+    "name": "Emzinoni Library",
+    "originId": 631741851,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "41.150.50.3",
+    "status": "CLOSED",
+    "createdAt": "2024-07-12T10:43:17.000Z"
+  },
+  {
+    "name": "Milan Park Library",
+    "originId": 631744696,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.253.97.2",
+    "status": "CLOSED",
+    "createdAt": "2024-07-12T11:47:51.000Z"
+  },
+  {
+    "name": "Thuthukani Library ",
+    "originId": 631865746,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.59",
+    "status": "CLOSED",
+    "createdAt": "2024-07-15T12:06:47.000Z"
+  },
+  {
+    "name": "Maphotla Library",
+    "originId": 632489870,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.142.10",
+    "status": "CLOSED",
+    "createdAt": "2024-07-24T09:19:45.000Z"
+  },
+  {
+    "name": "Loopspruit Library",
+    "originId": 632496435,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "169.1.49.125",
+    "status": "CLOSED",
+    "createdAt": "2024-07-24T10:29:57.000Z"
+  },
+  {
+    "name": "Kinross Library",
+    "originId": 632553182,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.142.15",
+    "status": "CLOSED",
+    "createdAt": "2024-07-25T08:59:47.000Z"
+  },
+  {
+    "name": "Zithabiseni Library",
+    "originId": 632557030,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "169.1.61.205",
+    "status": "CLOSED",
+    "createdAt": "2024-07-25T10:57:54.000Z"
+  },
+  {
+    "name": "Libangeni Library",
+    "originId": 635136397,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.182.46.73",
+    "status": "CLOSED",
+    "createdAt": "2024-08-23T13:19:34.000Z"
+  },
+  {
+    "name": "MPU_Nursing",
+    "originId": 636249192,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.242.141.185",
+    "status": "CLOSED",
+    "createdAt": "2024-09-05T20:13:22.000Z"
+  },
+  {
+    "name": "Siyabuswa Library",
+    "originId": 636376390,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.133.77",
+    "status": "CLOSED",
+    "createdAt": "2024-09-09T12:19:15.000Z"
+  },
+  {
+    "name": "Lynville Library",
+    "originId": 636381509,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.140",
+    "status": "CLOSED",
+    "createdAt": "2024-09-09T13:11:04.000Z"
+  },
+  {
+    "name": "Reference_Library",
+    "originId": 636389087,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.219.162.141",
+    "status": "CLOSED",
+    "createdAt": "2024-09-09T14:14:57.000Z"
+  },
+  {
+    "name": "Wesselton Library",
+    "originId": 636525074,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.247.185.27",
+    "status": "CLOSED",
+    "createdAt": "2024-09-11T09:04:24.000Z"
+  },
+  {
+    "name": "Stopforth Museum",
+    "originId": 636528370,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.160.184",
+    "status": "CLOSED",
+    "createdAt": "2024-09-11T10:26:34.000Z"
+  },
+  {
+    "name": "Compusol",
+    "originId": 636599795,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.212.98.72",
+    "status": "CLOSED",
+    "createdAt": "2024-09-12T08:35:30.000Z"
+  },
+  {
+    "name": "Mbombela_City_Library",
+    "originId": 636767953,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.219.162.241",
+    "status": "CLOSED",
+    "createdAt": "2024-09-16T12:00:36.000Z"
+  },
+  {
+    "name": "Valencia_Library",
+    "originId": 636952537,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.219.163.41",
+    "status": "CLOSED",
+    "createdAt": "2024-09-18T09:04:37.000Z"
+  },
+  {
+    "name": "Thusiville Library - (F)",
+    "originId": 637030458,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.209.29",
+    "status": "CLOSED",
+    "createdAt": "2024-09-19T08:13:43.000Z"
+  },
+  {
+    "name": "Nelsville_Library",
+    "originId": 639232580,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.219.163.33",
+    "status": "CLOSED",
+    "createdAt": "2024-10-24T08:05:08.000Z"
+  },
+  {
+    "name": "Emalahleni Main Library",
+    "originId": 639232737,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.219.163.21",
+    "status": "CLOSED",
+    "createdAt": "2024-10-24T08:10:01.000Z"
+  },
+  {
+    "name": "Funda_Library",
+    "originId": 647437451,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "41.150.218.100",
+    "status": "CLOSED",
+    "createdAt": "2025-02-21T13:15:44.000Z"
+  },
+  {
+    "name": "Matsamo Library",
+    "originId": 649379383,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.182.11.232",
+    "status": "CLOSED",
+    "createdAt": "2025-04-01T14:08:18.000Z"
+  },
+  {
+    "name": "Kamhlushwa_Library",
+    "originId": 649572832,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "105.245.117.142",
+    "status": "CLOSED",
+    "createdAt": "2025-04-04T11:10:16.000Z"
+  },
+  {
+    "name": "kwachibikhulu_Library",
+    "originId": 654447584,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "197.79.111.180",
+    "status": "CLOSED",
+    "createdAt": "2025-07-15T08:52:27.000Z"
+  },
+  {
+    "name": "kabokweni Library",
+    "originId": 654452251,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.219.163.61",
+    "status": "CLOSED",
+    "createdAt": "2025-07-15T11:01:09.000Z"
+  },
+  {
+    "name": "Davel Library",
+    "originId": 654628109,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "197.79.107.189",
+    "status": "CLOSED",
+    "createdAt": "2025-07-18T09:19:26.000Z"
+  },
+  {
+    "name": "Barberton Museum",
+    "originId": 654628367,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.192.175",
+    "status": "CLOSED",
+    "createdAt": "2025-07-18T09:28:59.000Z"
+  },
+  {
+    "name": "Delmas Library",
+    "originId": 654706431,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "154.126.210.150",
+    "status": "CLOSED",
+    "createdAt": "2025-07-21T08:07:57.000Z"
+  },
+  {
+    "name": " Doornkop_ Library",
+    "originId": 654720008,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.80.109",
+    "status": "CLOSED",
+    "createdAt": "2025-07-21T13:10:06.000Z"
+  },
+  {
+    "name": "KwaMhlanga-Library",
+    "originId": 654910736,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.182.19.12",
+    "status": "CLOSED",
+    "createdAt": "2025-07-24T07:55:38.000Z"
+  },
+  {
+    "name": "Leroro Library",
+    "originId": 654970135,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "197.79.108.76",
+    "status": "CLOSED",
+    "createdAt": "2025-07-25T07:06:14.000Z"
+  },
+  {
+    "name": "Mafemani Library",
+    "originId": 654970564,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.182.9.135",
+    "status": "CLOSED",
+    "createdAt": "2025-07-25T07:19:20.000Z"
+  },
+  {
+    "name": "Sundra Library",
+    "originId": 654973403,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.234.151",
+    "status": "CLOSED",
+    "createdAt": "2025-07-25T08:43:03.000Z"
+  },
+  {
+    "name": "Barberton Library",
+    "originId": 655054784,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.66.161.84",
+    "status": "CLOSED",
+    "createdAt": "2025-07-28T07:09:16.000Z"
+  },
+  {
+    "name": "Test Office",
+    "originId": 656841821,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "41.121.3.51",
+    "status": "CLOSED",
+    "createdAt": "2025-08-26T06:42:31.000Z"
+  },
+  {
+    "name": "Information_Center",
+    "originId": 656859028,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.237.2",
+    "status": "CLOSED",
+    "createdAt": "2025-08-26T12:21:29.000Z"
+  },
+  {
+    "name": "Dredzen_Museum",
+    "originId": 658448647,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.83.68",
+    "status": "CLOSED",
+    "createdAt": "2025-09-12T13:28:02.000Z"
+  },
+  {
+    "name": "Garage_Museum",
+    "originId": 658564924,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "197.79.77.151",
+    "status": "CLOSED",
+    "createdAt": "2025-09-15T08:53:33.000Z"
+  },
+  {
+    "name": "Thellwals_Museum",
+    "originId": 658571963,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "197.79.17.81",
+    "status": "CLOSED",
+    "createdAt": "2025-09-15T10:55:38.000Z"
+  },
+  {
+    "name": "Alanglade_Museum",
+    "originId": 658579158,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.68.226",
+    "status": "CLOSED",
+    "createdAt": "2025-09-15T12:33:13.000Z"
+  },
+  {
+    "name": "Sabie_news",
+    "originId": 658580290,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.117.27",
+    "status": "CLOSED",
+    "createdAt": "2025-09-15T12:45:36.000Z"
+  },
+  {
+    "name": "Elukwatini Library",
+    "originId": 659372362,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "197.79.91.145",
+    "status": "CLOSED",
+    "createdAt": "2025-09-25T09:23:09.000Z"
+  },
+  {
+    "name": "Hluvukani_Library.",
+    "originId": 659390398,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.254.179.31",
+    "status": "CLOSED",
+    "createdAt": "2025-09-25T13:21:59.000Z"
+  },
+  {
+    "name": "Kghodwana_Cultural Village",
+    "originId": 659730154,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.255.156",
+    "status": "CLOSED",
+    "createdAt": "2025-10-01T10:41:29.000Z"
+  },
+  {
+    "name": "Embalenhle Library",
+    "originId": 677488425,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.253.39.9",
+    "status": "CLOSED",
+    "createdAt": "2026-07-28T07:17:37.000Z"
+  },
+  {
+    "name": "Evander Library",
+    "originId": 677491911,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.254.13.5",
+    "status": "CLOSED",
+    "createdAt": "2026-07-28T08:18:35.000Z"
+  },
+  {
+    "name": "Matsulu Library",
+    "originId": 677494292,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.182.46.88",
+    "status": "CLOSED",
+    "createdAt": "2026-07-28T09:02:53.000Z"
+  },
+  {
+    "name": "Marapyane Library",
+    "originId": 677494460,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "197.79.56.246",
+    "status": "CLOSED",
+    "createdAt": "2026-07-28T09:05:59.000Z"
+  },
+  {
+    "name": "Lebohang Public Library",
+    "originId": 677498149,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.254.13.9",
+    "status": "CLOSED",
+    "createdAt": "2026-07-28T10:21:19.000Z"
+  },
+  {
+    "name": "Jeremiah Madonsela _Library",
+    "originId": 677501165,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.89.0",
+    "status": "CLOSED",
+    "createdAt": "2026-07-28T11:24:52.000Z"
+  },
+  {
+    "name": "Grootvlei",
+    "originId": 677508867,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.81.26",
+    "status": "CLOSED",
+    "createdAt": "2026-07-28T13:24:55.000Z"
+  },
+  {
+    "name": "Kwamhlanga_Comm_Library",
+    "originId": 677569005,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "192.143.24.149",
+    "status": "CLOSED",
+    "createdAt": "2026-07-29T06:57:05.000Z"
+  },
+  {
+    "name": "Zm_Mkhwanazi_Library",
+    "originId": 677570969,
+    "isDynamic": true,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "197.79.23.12",
+    "status": "CLOSED",
+    "createdAt": "2026-07-29T07:41:34.000Z"
+  },
+  {
+    "name": "Trichard Library",
+    "originId": 677573156,
+    "isDynamic": false,
+    "isVerified": true,
+    "prefixLength": 32,
+    "ipAddress": "102.219.162.13",
+    "status": "CLOSED",
+    "createdAt": "2026-07-29T08:34:32.000Z"
+  }
+]

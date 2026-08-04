@@ -1,0 +1,1748 @@
+{
+  "generated_note": "UniFi Umbrella report data (last 30 days)",
+  "summary": {
+    "total_requests": 111502939,
+    "allowed_requests": 74844626,
+    "blocked_requests": 36658313,
+    "block_rate_pct": 32.9,
+    "unique_domains": 729129,
+    "identities": 115,
+    "categories_seen": 162
+  },
+  "daily_series": [
+    {
+      "date": "2026-07-05",
+      "requests": 785828,
+      "allowed": 593104,
+      "blocked": 192724
+    },
+    {
+      "date": "2026-07-06",
+      "requests": 3444609,
+      "allowed": 2273328,
+      "blocked": 1171281
+    },
+    {
+      "date": "2026-07-07",
+      "requests": 3008163,
+      "allowed": 1921954,
+      "blocked": 1086209
+    },
+    {
+      "date": "2026-07-08",
+      "requests": 3464033,
+      "allowed": 2229566,
+      "blocked": 1234467
+    },
+    {
+      "date": "2026-07-09",
+      "requests": 4257612,
+      "allowed": 2469506,
+      "blocked": 1788106
+    },
+    {
+      "date": "2026-07-10",
+      "requests": 3674258,
+      "allowed": 2472609,
+      "blocked": 1201649
+    },
+    {
+      "date": "2026-07-11",
+      "requests": 1607062,
+      "allowed": 1137327,
+      "blocked": 469735
+    },
+    {
+      "date": "2026-07-12",
+      "requests": 1448956,
+      "allowed": 1049249,
+      "blocked": 399707
+    },
+    {
+      "date": "2026-07-13",
+      "requests": 4752698,
+      "allowed": 3144841,
+      "blocked": 1607857
+    },
+    {
+      "date": "2026-07-14",
+      "requests": 4851390,
+      "allowed": 3279979,
+      "blocked": 1571411
+    },
+    {
+      "date": "2026-07-15",
+      "requests": 4393388,
+      "allowed": 2929737,
+      "blocked": 1463651
+    },
+    {
+      "date": "2026-07-16",
+      "requests": 4389701,
+      "allowed": 2930647,
+      "blocked": 1459054
+    },
+    {
+      "date": "2026-07-17",
+      "requests": 4171873,
+      "allowed": 2807514,
+      "blocked": 1364359
+    },
+    {
+      "date": "2026-07-18",
+      "requests": 1924682,
+      "allowed": 1394752,
+      "blocked": 529930
+    },
+    {
+      "date": "2026-07-19",
+      "requests": 1624913,
+      "allowed": 1185433,
+      "blocked": 439480
+    },
+    {
+      "date": "2026-07-20",
+      "requests": 4576735,
+      "allowed": 2983974,
+      "blocked": 1592761
+    },
+    {
+      "date": "2026-07-21",
+      "requests": 4424127,
+      "allowed": 2905467,
+      "blocked": 1518660
+    },
+    {
+      "date": "2026-07-22",
+      "requests": 4661425,
+      "allowed": 3160668,
+      "blocked": 1500757
+    },
+    {
+      "date": "2026-07-23",
+      "requests": 5669318,
+      "allowed": 4186477,
+      "blocked": 1482841
+    },
+    {
+      "date": "2026-07-24",
+      "requests": 4595217,
+      "allowed": 3211062,
+      "blocked": 1384155
+    },
+    {
+      "date": "2026-07-25",
+      "requests": 1732973,
+      "allowed": 1203890,
+      "blocked": 529083
+    },
+    {
+      "date": "2026-07-26",
+      "requests": 1376073,
+      "allowed": 918926,
+      "blocked": 457147
+    },
+    {
+      "date": "2026-07-27",
+      "requests": 4448107,
+      "allowed": 2961815,
+      "blocked": 1486292
+    },
+    {
+      "date": "2026-07-28",
+      "requests": 5360236,
+      "allowed": 3586656,
+      "blocked": 1773580
+    },
+    {
+      "date": "2026-07-29",
+      "requests": 5549825,
+      "allowed": 3681485,
+      "blocked": 1868340
+    },
+    {
+      "date": "2026-07-30",
+      "requests": 5262205,
+      "allowed": 3544731,
+      "blocked": 1717474
+    },
+    {
+      "date": "2026-07-31",
+      "requests": 4777261,
+      "allowed": 3248213,
+      "blocked": 1529048
+    },
+    {
+      "date": "2026-08-01",
+      "requests": 2270580,
+      "allowed": 1499520,
+      "blocked": 771060
+    },
+    {
+      "date": "2026-08-02",
+      "requests": 1782219,
+      "allowed": 1178619,
+      "blocked": 603600
+    },
+    {
+      "date": "2026-08-03",
+      "requests": 5251214,
+      "allowed": 3479590,
+      "blocked": 1771624
+    },
+    {
+      "date": "2026-08-04",
+      "requests": 1994873,
+      "allowed": 1296241,
+      "blocked": 698632
+    }
+  ],
+  "top_categories": [
+    {
+      "label": "Application",
+      "count": 83661907,
+      "bandwidth": null
+    },
+    {
+      "label": "Infrastructure and Content Delivery Networks",
+      "count": 27968955,
+      "bandwidth": 380458
+    },
+    {
+      "label": "Computers and Internet",
+      "count": 18723677,
+      "bandwidth": null
+    },
+    {
+      "label": "Business and Industry",
+      "count": 16893371,
+      "bandwidth": null
+    },
+    {
+      "label": "Application Block",
+      "count": 16892265,
+      "bandwidth": 1875
+    },
+    {
+      "label": "Software Updates",
+      "count": 14730167,
+      "bandwidth": null
+    },
+    {
+      "label": "Social Networking",
+      "count": 11571922,
+      "bandwidth": null
+    },
+    {
+      "label": "Search Engines and Portals",
+      "count": 11326210,
+      "bandwidth": null
+    },
+    {
+      "label": "Streaming Video",
+      "count": 6436524,
+      "bandwidth": null
+    },
+    {
+      "label": "Advertisements",
+      "count": 4592193,
+      "bandwidth": null
+    }
+  ],
+  "top_blocked_categories": [
+    {
+      "label": "Application",
+      "requests": 83661891,
+      "blocked": 31543718,
+      "allowed": 52118173
+    },
+    {
+      "label": "Software/Technology",
+      "requests": 44098676,
+      "blocked": 17874864,
+      "allowed": 26223812
+    },
+    {
+      "label": "Application Block",
+      "requests": 16892265,
+      "blocked": 16889937,
+      "allowed": 2328
+    },
+    {
+      "label": "Software Updates",
+      "requests": 14730165,
+      "blocked": 14721434,
+      "allowed": 8731
+    },
+    {
+      "label": "Business Services",
+      "requests": 37456454,
+      "blocked": 10752736,
+      "allowed": 26703718
+    },
+    {
+      "label": "Social Networking",
+      "requests": 11571920,
+      "blocked": 7402287,
+      "allowed": 4169633
+    },
+    {
+      "label": "Streaming Video",
+      "requests": 6436524,
+      "blocked": 5218459,
+      "allowed": 1218065
+    },
+    {
+      "label": "Photo Sharing",
+      "requests": 5056618,
+      "blocked": 4898602,
+      "allowed": 158016
+    },
+    {
+      "label": "Advertisements",
+      "requests": 4592193,
+      "blocked": 3690873,
+      "allowed": 901320
+    },
+    {
+      "label": "Business and Industry",
+      "requests": 16893371,
+      "blocked": 1117367,
+      "allowed": 15776004
+    }
+  ],
+  "top_destinations": [
+    {
+      "domain": "ctldl.windowsupdate.com",
+      "count": 7766589,
+      "categories": [
+        "Business and Industry",
+        "Computers and Internet"
+      ]
+    },
+    {
+      "domain": "www.microsoft.com",
+      "count": 5316773,
+      "categories": [
+        "Computers and Internet",
+        "Infrastructure and Content Delivery Networks"
+      ]
+    },
+    {
+      "domain": "sls.update.microsoft.com",
+      "count": 3768942,
+      "categories": [
+        "Application",
+        "Software Updates"
+      ]
+    },
+    {
+      "domain": "ui.com",
+      "count": 3178553,
+      "categories": [
+        "Business and Industry",
+        "Business Services"
+      ]
+    },
+    {
+      "domain": "test-gateway.instagram.com",
+      "count": 3100767,
+      "categories": [
+        "Photo Sharing",
+        "Social Networking"
+      ]
+    },
+    {
+      "domain": "www.google.com",
+      "count": 2355865,
+      "categories": [
+        "Search Engines and Portals",
+        "Search Engines"
+      ]
+    },
+    {
+      "domain": "slscr.update.microsoft.com",
+      "count": 1463840,
+      "categories": [
+        "Business and Industry",
+        "Application"
+      ]
+    },
+    {
+      "domain": "wpad.localdomain",
+      "count": 1369505,
+      "categories": []
+    },
+    {
+      "domain": "ping.ui.com",
+      "count": 1293940,
+      "categories": [
+        "Business and Industry",
+        "Business Services"
+      ]
+    },
+    {
+      "domain": "i.instagram.com",
+      "count": 1130970,
+      "categories": [
+        "Photo Sharing",
+        "Social Networking"
+      ]
+    },
+    {
+      "domain": "graph.facebook.com",
+      "count": 939998,
+      "categories": [
+        "Social Networking",
+        "Application"
+      ]
+    },
+    {
+      "domain": "www.gstatic.com",
+      "count": 931152,
+      "categories": [
+        "Infrastructure and Content Delivery Networks",
+        "Application"
+      ]
+    },
+    {
+      "domain": "googleads.g.doubleclick.net",
+      "count": 906710,
+      "categories": [
+        "Application",
+        "Advertisements"
+      ]
+    },
+    {
+      "domain": "www.msftconnecttest.com",
+      "count": 840616,
+      "categories": [
+        "Infrastructure and Content Delivery Networks",
+        "Application"
+      ]
+    },
+    {
+      "domain": "doh.opendns.com",
+      "count": 837934,
+      "categories": [
+        "Encrypted DNS",
+        "Application"
+      ]
+    }
+  ],
+  "top_destinations_blocked": [
+    {
+      "domain": "ctldl.windowsupdate.com",
+      "count": 7766520,
+      "categories": [
+        "Application",
+        "Software Updates"
+      ]
+    },
+    {
+      "domain": "sls.update.microsoft.com",
+      "count": 3768947,
+      "categories": [
+        "Application",
+        "Software Updates"
+      ]
+    },
+    {
+      "domain": "test-gateway.instagram.com",
+      "count": 3100770,
+      "categories": [
+        "Photo Sharing",
+        "Social Networking"
+      ]
+    },
+    {
+      "domain": "slscr.update.microsoft.com",
+      "count": 1463841,
+      "categories": [
+        "Application",
+        "Software Updates"
+      ]
+    },
+    {
+      "domain": "i.instagram.com",
+      "count": 1130971,
+      "categories": [
+        "Photo Sharing",
+        "Social Networking"
+      ]
+    },
+    {
+      "domain": "googleads.g.doubleclick.net",
+      "count": 906710,
+      "categories": [
+        "Application",
+        "Advertisements"
+      ]
+    },
+    {
+      "domain": "app-measurement.com",
+      "count": 626087,
+      "categories": [
+        "Science and Technology",
+        "Application"
+      ]
+    },
+    {
+      "domain": "tlu.dl.delivery.mp.microsoft.com",
+      "count": 390857,
+      "categories": [
+        "Application",
+        "Software Updates"
+      ]
+    },
+    {
+      "domain": "p16-common-sign.tiktokcdn.com",
+      "count": 382274,
+      "categories": [
+        "Social Networking",
+        "Application"
+      ]
+    },
+    {
+      "domain": "dsu-a.shalltry.com",
+      "count": 340866,
+      "categories": [
+        "Games"
+      ]
+    },
+    {
+      "domain": "litedev.eu.hik-connect.com",
+      "count": 335830,
+      "categories": [
+        "Application",
+        "Internet of Things"
+      ]
+    },
+    {
+      "domain": "ps.hpytimes.info",
+      "count": 274942,
+      "categories": [
+        "Games"
+      ]
+    },
+    {
+      "domain": "logs.ads.vungle.com",
+      "count": 264565,
+      "categories": [
+        "Business and Industry",
+        "Application"
+      ]
+    },
+    {
+      "domain": "ire-dsc.shalltry.com",
+      "count": 245864,
+      "categories": [
+        "Games"
+      ]
+    },
+    {
+      "domain": "litedev.hik-connect.com",
+      "count": 236149,
+      "categories": [
+        "Application",
+        "Internet of Things"
+      ]
+    }
+  ],
+  "event_types": [
+    {
+      "count": 1600162,
+      "eventtype": "domain_security"
+    }
+  ],
+  "sites": [
+    {
+      "name": " Doornkop_ Library",
+      "ip_address": "192.143.80.109",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-07-21",
+      "allowed": 29,
+      "blocked": 1
+    },
+    {
+      "name": "105.242.142.64",
+      "ip_address": "105.242.142.64",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-04-04",
+      "allowed": 1126593,
+      "blocked": 379439
+    },
+    {
+      "name": "Alanglade_Museum",
+      "ip_address": "192.143.68.226",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-09-15",
+      "allowed": 28,
+      "blocked": 0
+    },
+    {
+      "name": "Amersfoort Library",
+      "ip_address": "154.126.210.33",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 1316018,
+      "blocked": 678308
+    },
+    {
+      "name": "Amsterdam Library",
+      "ip_address": "154.126.214.193",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 960182,
+      "blocked": 404697
+    },
+    {
+      "name": "Archives_Repository",
+      "ip_address": "105.242.241.162",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-04-25",
+      "allowed": 96,
+      "blocked": 31
+    },
+    {
+      "name": "badplaas.xwi.co.za",
+      "ip_address": "102.66.161.83",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 1424490,
+      "blocked": 275586
+    },
+    {
+      "name": "Balfour Library",
+      "ip_address": "154.126.210.34",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 1774318,
+      "blocked": 2372311
+    },
+    {
+      "name": "Barberton Library",
+      "ip_address": "102.66.161.84",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-07-28",
+      "allowed": 4008696,
+      "blocked": 362284
+    },
+    {
+      "name": "Barberton Museum",
+      "ip_address": "102.66.192.175",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-07-18",
+      "allowed": 2094,
+      "blocked": 435
+    },
+    {
+      "name": "Bethal Library",
+      "ip_address": "154.126.210.32",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 862906,
+      "blocked": 411824
+    },
+    {
+      "name": "Botleng Library",
+      "ip_address": "105.242.140.232",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-27",
+      "allowed": 879639,
+      "blocked": 463407
+    },
+    {
+      "name": "Breyten Library",
+      "ip_address": "105.242.142.60",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-04",
+      "allowed": 415793,
+      "blocked": 179384
+    },
+    {
+      "name": "Carolina Library",
+      "ip_address": "154.126.210.147",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 453938,
+      "blocked": 166744
+    },
+    {
+      "name": "Chromville Library",
+      "ip_address": "105.242.140.193",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-27",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Compusol",
+      "ip_address": "102.212.98.72",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-09-12",
+      "allowed": 114,
+      "blocked": 6
+    },
+    {
+      "name": "Daggaskraal Library",
+      "ip_address": "154.126.210.35",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-11",
+      "allowed": 1447556,
+      "blocked": 1082136
+    },
+    {
+      "name": "Davel Library",
+      "ip_address": "197.79.107.189",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2025-07-18",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Delmas Library",
+      "ip_address": "154.126.210.150",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-07-21",
+      "allowed": 1518273,
+      "blocked": 574693
+    },
+    {
+      "name": "Dredzen_Museum",
+      "ip_address": "192.143.83.68",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2025-09-12",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Driefontein Library",
+      "ip_address": "154.126.210.36",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-07-09",
+      "allowed": 203366,
+      "blocked": 134397
+    },
+    {
+      "name": "Eastdene Library",
+      "ip_address": "154.126.210.37",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 703776,
+      "blocked": 244716
+    },
+    {
+      "name": "Ekulindeni Library",
+      "ip_address": "105.242.141.34",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-23",
+      "allowed": 212852,
+      "blocked": 72050
+    },
+    {
+      "name": "Elukwatini Library",
+      "ip_address": "197.79.91.145",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-09-25",
+      "allowed": 264815,
+      "blocked": 169998
+    },
+    {
+      "name": "Emakhazeni Library",
+      "ip_address": "105.242.141.215",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-04",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Emalahleni Main Library",
+      "ip_address": "102.219.163.21",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-10-24",
+      "allowed": 28844,
+      "blocked": 11630
+    },
+    {
+      "name": "Embalenhle Library",
+      "ip_address": "102.253.39.9",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2026-07-28",
+      "allowed": 8475,
+      "blocked": 3669
+    },
+    {
+      "name": "Emftuntini Library",
+      "ip_address": "102.66.162.8",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 1390885,
+      "blocked": 529082
+    },
+    {
+      "name": "emjindini.xwi.co.za",
+      "ip_address": "102.66.161.86",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 2940034,
+      "blocked": 573482
+    },
+    {
+      "name": "Emthonjeni _Library",
+      "ip_address": "105.242.142.55",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-04",
+      "allowed": 1127709,
+      "blocked": 751009
+    },
+    {
+      "name": "Emzinoni Library",
+      "ip_address": "41.150.50.3",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-07-12",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Entokozweni Library",
+      "ip_address": "105.242.141.253",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-04",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Ermelo Regional Library",
+      "ip_address": "105.242.140.252",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-04-05",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Evander Library",
+      "ip_address": "102.254.13.5",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2026-07-28",
+      "allowed": 45418,
+      "blocked": 12079
+    },
+    {
+      "name": "Ezenzeleni Library",
+      "ip_address": "105.242.142.12",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-04",
+      "allowed": 531407,
+      "blocked": 191896
+    },
+    {
+      "name": "Funda_Library",
+      "ip_address": "41.150.218.100",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2025-02-21",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Ga Nala Library",
+      "ip_address": "105.242.140.200",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 825585,
+      "blocked": 282096
+    },
+    {
+      "name": "Garage_Museum",
+      "ip_address": "197.79.77.151",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-09-15",
+      "allowed": 117,
+      "blocked": 1
+    },
+    {
+      "name": "Gerald Sekoto Library",
+      "ip_address": "154.126.210.128",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 1058443,
+      "blocked": 344221
+    },
+    {
+      "name": "Grootvlei",
+      "ip_address": "192.143.81.26",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2026-07-28",
+      "allowed": 281504,
+      "blocked": 118034
+    },
+    {
+      "name": "hazyview.xwi.co.za",
+      "ip_address": "102.66.161.90",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 595032,
+      "blocked": 215662
+    },
+    {
+      "name": "Hendrina Library",
+      "ip_address": "154.126.210.38",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 456146,
+      "blocked": 224966
+    },
+    {
+      "name": "Hluvukani_Library.",
+      "ip_address": "102.254.179.31",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-09-25",
+      "allowed": 31889,
+      "blocked": 40153
+    },
+    {
+      "name": "Hopestreet Library",
+      "ip_address": "102.66.161.92",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Information_Center",
+      "ip_address": "192.143.237.2",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-08-26",
+      "allowed": 2,
+      "blocked": 0
+    },
+    {
+      "name": "Jeremiah Madonsela _Library",
+      "ip_address": "192.143.89.0",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2026-07-28",
+      "allowed": 562954,
+      "blocked": 267783
+    },
+    {
+      "name": "kabokweni Library",
+      "ip_address": "102.219.163.61",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2025-07-15",
+      "allowed": 5913,
+      "blocked": 2910
+    },
+    {
+      "name": "Kamaqhekeza Library",
+      "ip_address": "102.222.90.159",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 407303,
+      "blocked": 220536
+    },
+    {
+      "name": "Kamhlushwa_Library",
+      "ip_address": "105.245.117.142",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-04-04",
+      "allowed": 1762,
+      "blocked": 674
+    },
+    {
+      "name": "kanyamazane.library.xwi.co.za",
+      "ip_address": "102.66.163.78",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 1212691,
+      "blocked": 601178
+    },
+    {
+      "name": "Kghodwana_Cultural Village",
+      "ip_address": "192.143.255.156",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2025-10-01",
+      "allowed": 59,
+      "blocked": 0
+    },
+    {
+      "name": "Khululwazi_Library",
+      "ip_address": "105.242.142.45",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-04",
+      "allowed": 1839725,
+      "blocked": 371343
+    },
+    {
+      "name": "Kinross Library",
+      "ip_address": "105.242.142.15",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-25",
+      "allowed": 637580,
+      "blocked": 140451
+    },
+    {
+      "name": "Klarinet Library",
+      "ip_address": "105.242.140.218",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-24",
+      "allowed": 352367,
+      "blocked": 274196
+    },
+    {
+      "name": "Klipfontein Library",
+      "ip_address": "154.126.210.143",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 1049477,
+      "blocked": 259014
+    },
+    {
+      "name": "Komati Library",
+      "ip_address": "105.242.142.43",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-04",
+      "allowed": 438389,
+      "blocked": 114198
+    },
+    {
+      "name": "kwachibikhulu_Library",
+      "ip_address": "197.79.111.180",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-07-15",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Kwaguqa Library",
+      "ip_address": "154.126.210.137",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 864674,
+      "blocked": 532770
+    },
+    {
+      "name": "KwaMhlanga-Library",
+      "ip_address": "102.182.19.12",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-07-24",
+      "allowed": 142,
+      "blocked": 15
+    },
+    {
+      "name": "Kwamhlanga_Comm_Library",
+      "ip_address": "192.143.24.149",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2026-07-29",
+      "allowed": 133536,
+      "blocked": 60372
+    },
+    {
+      "name": "Kwazanele Library",
+      "ip_address": "105.242.141.71",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-04-05",
+      "allowed": 862376,
+      "blocked": 382973
+    },
+    {
+      "name": "Leandra Library",
+      "ip_address": "102.254.68.28",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-07-10",
+      "allowed": 78765,
+      "blocked": 30328
+    },
+    {
+      "name": "Lebohang Public Library",
+      "ip_address": "102.254.13.9",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2026-07-28",
+      "allowed": 67782,
+      "blocked": 29513
+    },
+    {
+      "name": "Leroro Library",
+      "ip_address": "197.79.108.76",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-07-25",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Libangeni Library",
+      "ip_address": "102.182.46.73",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-08-23",
+      "allowed": 82823,
+      "blocked": 38998
+    },
+    {
+      "name": "Loopspruit Library",
+      "ip_address": "169.1.49.125",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-07-24",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "lyd.region.xwi.co.za",
+      "ip_address": "102.66.163.81",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "lydenburg.xwi.co.za",
+      "ip_address": "102.66.161.98",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 387903,
+      "blocked": 41840
+    },
+    {
+      "name": "Lynville Library",
+      "ip_address": "154.126.210.140",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-09-09",
+      "allowed": 736026,
+      "blocked": 316226
+    },
+    {
+      "name": "Mafemani Library",
+      "ip_address": "102.182.9.135",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-07-25",
+      "allowed": 191156,
+      "blocked": 97564
+    },
+    {
+      "name": "malelane.xwi.co.za",
+      "ip_address": "102.66.162.10",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 443870,
+      "blocked": 376180
+    },
+    {
+      "name": "Maphotla Library",
+      "ip_address": "105.242.142.10",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-24",
+      "allowed": 402371,
+      "blocked": 82450
+    },
+    {
+      "name": "Marapyane Library",
+      "ip_address": "197.79.56.246",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2026-07-28",
+      "allowed": 6797,
+      "blocked": 2067
+    },
+    {
+      "name": "Masobye Library",
+      "ip_address": "105.242.141.246",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-04",
+      "allowed": 540397,
+      "blocked": 287293
+    },
+    {
+      "name": "Masoyi_Library",
+      "ip_address": "102.253.17.12",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-05-27",
+      "allowed": 28029,
+      "blocked": 13173
+    },
+    {
+      "name": "Matsamo Library",
+      "ip_address": "102.182.11.232",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-04-01",
+      "allowed": 2299134,
+      "blocked": 1354563
+    },
+    {
+      "name": "Matsulu Library",
+      "ip_address": "102.182.46.88",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2026-07-28",
+      "allowed": 670056,
+      "blocked": 248271
+    },
+    {
+      "name": "Mbombela_City_Library",
+      "ip_address": "102.219.162.241",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-09-16",
+      "allowed": 28370,
+      "blocked": 5996
+    },
+    {
+      "name": "Mbuzini Library",
+      "ip_address": "102.222.90.158",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-12",
+      "allowed": 1070416,
+      "blocked": 709532
+    },
+    {
+      "name": "Mgobodzi Library",
+      "ip_address": "102.222.90.181",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-12",
+      "allowed": 833030,
+      "blocked": 394858
+    },
+    {
+      "name": "Mhluzi Ext 7 Library",
+      "ip_address": "154.126.210.39",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-11",
+      "allowed": 481594,
+      "blocked": 579629
+    },
+    {
+      "name": "Mhluzi Main Library",
+      "ip_address": "154.126.210.73",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-11",
+      "allowed": 694191,
+      "blocked": 3253915
+    },
+    {
+      "name": "Milan Park Library",
+      "ip_address": "102.253.97.2",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-07-12",
+      "allowed": 115848,
+      "blocked": 27155
+    },
+    {
+      "name": "Mkhuhlu_Library",
+      "ip_address": "105.242.141.36",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-03",
+      "allowed": 949141,
+      "blocked": 395691
+    },
+    {
+      "name": "Morgenzon Library",
+      "ip_address": "105.242.141.243",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-04",
+      "allowed": 635606,
+      "blocked": 305075
+    },
+    {
+      "name": "MP Stream Library",
+      "ip_address": "102.66.163.79",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 1877763,
+      "blocked": 775731
+    },
+    {
+      "name": "MPU_Nursing",
+      "ip_address": "105.242.141.185",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-09-05",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "msogwaba.library.xwi.co.za",
+      "ip_address": "102.66.163.76",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 1996677,
+      "blocked": 999096
+    },
+    {
+      "name": "Nazareth Library",
+      "ip_address": "105.242.141.103",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-23",
+      "allowed": 36231,
+      "blocked": 12291
+    },
+    {
+      "name": "Nelsville_Library",
+      "ip_address": "102.219.163.33",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-10-24",
+      "allowed": 530645,
+      "blocked": 182100
+    },
+    {
+      "name": "Nomoya Masilela Museum",
+      "ip_address": "105.242.141.26",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-27",
+      "allowed": 106,
+      "blocked": 52
+    },
+    {
+      "name": "Nthoroane Library",
+      "ip_address": "105.242.141.48",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-23",
+      "allowed": 425224,
+      "blocked": 174379
+    },
+    {
+      "name": "Ogies Library",
+      "ip_address": "154.126.210.74",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 658622,
+      "blocked": 310086
+    },
+    {
+      "name": "Perdekop Library",
+      "ip_address": "154.126.214.199",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 1487041,
+      "blocked": 837453
+    },
+    {
+      "name": "Phola Library",
+      "ip_address": "154.126.210.142",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 586672,
+      "blocked": 480689
+    },
+    {
+      "name": "Phumula Library",
+      "ip_address": "154.126.210.149",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 1306020,
+      "blocked": 749947
+    },
+    {
+      "name": "Piet Retief Library (Mkhondo)",
+      "ip_address": "154.126.210.31",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 1268778,
+      "blocked": 319068
+    },
+    {
+      "name": "Pullenshope",
+      "ip_address": "105.242.141.161",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Reference_Library",
+      "ip_address": "102.219.162.141",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-09-09",
+      "allowed": 15184,
+      "blocked": 12487
+    },
+    {
+      "name": "Rietkuil Library",
+      "ip_address": "154.126.210.141",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 686071,
+      "blocked": 291899
+    },
+    {
+      "name": "Sabie Library",
+      "ip_address": "102.66.161.102",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Sabie_news",
+      "ip_address": "192.143.117.27",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-09-15",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Sakhile Library",
+      "ip_address": "154.126.210.75",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-12",
+      "allowed": 1733821,
+      "blocked": 1197581
+    },
+    {
+      "name": "Samora Machel Monument and Museum",
+      "ip_address": "105.242.141.72",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-23",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Secunda Library",
+      "ip_address": "154.126.210.138",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-12",
+      "allowed": 788058,
+      "blocked": 382185
+    },
+    {
+      "name": "Shatale Library",
+      "ip_address": "102.66.163.83",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 1119924,
+      "blocked": 472867
+    },
+    {
+      "name": "Silindile Library",
+      "ip_address": "105.242.142.74",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-06-26",
+      "allowed": 65274,
+      "blocked": 30282
+    },
+    {
+      "name": "Siyabuswa Library",
+      "ip_address": "192.143.133.77",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-09-09",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Siyathuthuka Library",
+      "ip_address": "105.242.142.35",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-04-04",
+      "allowed": 345566,
+      "blocked": 243402
+    },
+    {
+      "name": "Stan West Library",
+      "ip_address": "154.126.210.76",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-12",
+      "allowed": 1384237,
+      "blocked": 639592
+    },
+    {
+      "name": "Standerton Library",
+      "ip_address": "154.126.210.77",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 831061,
+      "blocked": 309646
+    },
+    {
+      "name": "Standerton Regional Library",
+      "ip_address": "154.126.210.78",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-09",
+      "allowed": 1297912,
+      "blocked": 426880
+    },
+    {
+      "name": "Stopforth Museum",
+      "ip_address": "102.66.160.184",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-09-11",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Sundra Library",
+      "ip_address": "192.143.234.151",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-07-25",
+      "allowed": 451,
+      "blocked": 60
+    },
+    {
+      "name": "Test Office",
+      "ip_address": "41.121.3.51",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2025-08-26",
+      "allowed": 186,
+      "blocked": 219
+    },
+    {
+      "name": "Thellwals_Museum",
+      "ip_address": "197.79.17.81",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2025-09-15",
+      "allowed": 8,
+      "blocked": 0
+    },
+    {
+      "name": "Thembisile Hani Library",
+      "ip_address": "154.126.210.79",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 853986,
+      "blocked": 406676
+    },
+    {
+      "name": "Thistle Grove Library",
+      "ip_address": "102.219.163.92",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-07-10",
+      "allowed": 315819,
+      "blocked": 209820
+    },
+    {
+      "name": "Thulamahashe Library",
+      "ip_address": "196.31.30.172",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-07-11",
+      "allowed": 2806,
+      "blocked": 113
+    },
+    {
+      "name": "Thusiville Library - (F)",
+      "ip_address": "154.126.209.29",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-09-19",
+      "allowed": 1610424,
+      "blocked": 1267666
+    },
+    {
+      "name": "Thuthukani Library ",
+      "ip_address": "105.242.141.59",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-07-15",
+      "allowed": 138665,
+      "blocked": 104197
+    },
+    {
+      "name": "Trichard Library",
+      "ip_address": "102.219.162.13",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2026-07-29",
+      "allowed": 32082,
+      "blocked": 4648
+    },
+    {
+      "name": "Valencia_Library",
+      "ip_address": "102.219.163.41",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-09-18",
+      "allowed": 6875,
+      "blocked": 2112
+    },
+    {
+      "name": "Verena Library",
+      "ip_address": "154.126.210.148",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 2002687,
+      "blocked": 850828
+    },
+    {
+      "name": "Volksrust Library",
+      "ip_address": "154.126.210.30",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 416530,
+      "blocked": 179793
+    },
+    {
+      "name": "Vukuzake Library",
+      "ip_address": "154.126.210.120",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 1176764,
+      "blocked": 420805
+    },
+    {
+      "name": "Wakkerstroom Library",
+      "ip_address": "154.126.210.123",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 1708637,
+      "blocked": 294286
+    },
+    {
+      "name": "Wesselton Library",
+      "ip_address": "105.247.185.27",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-09-11",
+      "allowed": 27,
+      "blocked": 1
+    },
+    {
+      "name": "White River Library",
+      "ip_address": "105.242.141.3",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-07-10",
+      "allowed": 0,
+      "blocked": 0
+    },
+    {
+      "name": "Zithabiseni Library",
+      "ip_address": "169.1.61.205",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2024-07-25",
+      "allowed": 970355,
+      "blocked": 557714
+    },
+    {
+      "name": "Zm_Mkhwanazi_Library",
+      "ip_address": "197.79.23.12",
+      "verified": true,
+      "dynamic": true,
+      "created_at": "2026-07-29",
+      "allowed": 419295,
+      "blocked": 167207
+    },
+    {
+      "name": "Zwelisha Library",
+      "ip_address": "102.66.163.84",
+      "verified": true,
+      "dynamic": false,
+      "created_at": "2024-05-21",
+      "allowed": 737988,
+      "blocked": 255123
+    }
+  ]
+}
